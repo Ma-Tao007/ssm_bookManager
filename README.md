@@ -1,11 +1,14 @@
 这是一个基于ssm的图书管理系统：
 
+项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
 
-CSDN博客地址：https://blog.csdn.net/m0_47220500/article/details/125134615
+![公众号二维码](./运行截图/wechat.png)
+
+
+CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/114374504
 
 B站运行视频：暂无
 
-项目下载地址：http://shiyuncode.com/details?id=8
 
 
 该系统具有二种权限：<br>
